@@ -1,0 +1,42 @@
+﻿Start Process  - 27/08/2021 15:04:28
+Fail to find a coin in CoinList>  
+Time of execution> 00:00:07.1448103 - ID>1 - Coin>  - Message> One or more errors occurred. (Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.) 
+Start Process  - 27/08/2021 15:12:29
+Fail to find a coin in CoinList>  
+Time of execution> 00:00:02.8492155 - ID>1 - Coin>  - Message> Retorno sem sucesso. 
+Start Process  - 27/08/2021 15:14:25
+Start Process  - 27/08/2021 17:00:14
+Fail to find a coin in CoinList>  
+Time of execution> 00:00:08.3053865 - ID>1 - Coin>  - Message> One or more errors occurred. (Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.) 
+Start Process  - 27/08/2021 17:05:39
+Fail to find a coin in CoinList> BRA 
+Time of execution> 00:00:28.8903229 - ID>1 - Coin> BRA - Message>  
+Time of execution> 00:00:43.4157647 - ID>2 - Coin> JPY - Message>  
+Fail to find a coin in CoinList> EUR 
+Time of execution> 00:00:15.2160271 - ID>3 - Coin> EUR - Message>  
+Start Process  - 27/08/2021 17:12:12
+Continue Process  - 27/08/2021 17:12:15
+Time of execution> 00:00:26.8042240 - ID>1 - Coin> USD - Message>  
+End Process  - 27/08/2021 17:14:41
+Fail to find a coin in CoinList>  
+Time of execution> 00:00:02.7725852 - ID>2 - Coin>  - Message> Sorry, no more coins here. 
+Start Process  - 27/08/2021 17:16:15
+Continue Process  - 27/08/2021 17:16:18
+Start Process  - 27/08/2021 17:18:12
+Continue Process  - 27/08/2021 17:18:15
+Start Process  - 27/08/2021 17:47:41
+Continue Process  - 27/08/2021 17:47:43
+End Process - ID invalid: 27/08/2021 17:48:11
+End Process - Date end invalid: 27/08/2021 17:48:14
+End Process - Date start invalid: 27/08/2021 17:48:16
+Start Process  - 27/08/2021 17:54:24
+Start Process  - 27/08/2021 17:54:35
+Start Process  - 27/08/2021 17:54:54
+Start Process  - 27/08/2021 17:56:29
+Start Process  - 27/08/2021 17:57:02
+Continue Process  - 27/08/2021 17:57:10
+Start Process  - 27/08/2021 17:57:37
+Continue Process  - 27/08/2021 17:57:39
+  Fail Process - ID invalid: 27/08/2021 17:57:45
+  Fail Process - Date end invalid: 27/08/2021 17:57:45
+  Fail Process - Date start invalid: 27/08/2021 17:57:45
